@@ -1,16 +1,16 @@
-#### QUOTESS APP
+## QUOTESS APP
 
 
 ### Description of the application
   This is an application that enables one to write their own quotes and vote on the best and worst quotes.
 
-#### By Ivine Kemuma
+## By Ivine Kemuma
 
-#### DESCRIPTION
+## DESCRIPTION
 This is an application thaat enables an individual to create his or her own quotesand vote for the best quotes.The users are also allowed to do away with the bad ones.It also enables one to vote through upvoting or downvoting.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
-#### Setup/Installation Requirements
+### Setup/Installation Requirements
 
      *Git Clone https://github.com/ivine369/Quotes
 
@@ -20,10 +20,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
      *ng serve --open
 
- #### Known Bugs
+ ### Known Bugs
    - No known bugs have been established yet but feel free to contact us incase you enconter them.
 
-#### Technologies used
+### Technologies used
 
      *HTML
 
@@ -33,13 +33,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
      *Angular
 
-#### Business Logic
+### Business Logic
 This application allows creation of quotes.It also takes the names of the quotes publisher.It allows voting of quotes whether they are inspirational or not.The application also shows the  published date of the quote.
 
-#### User Interface Logic
+### User Interface Logic
 The user interface is a one page website that has an input section for creating new quote,date and name of publisher.The user can enter their names as authors,the quote itself and the date of submission.They then click on the button add quote for it to be added to the quotes section.
 
-#### Support and contact details
+### Support and contact details
 
 You can contact me via my email at ivinekemuma014@gmail.com for any enquiries in case of any problems.You can inform me of any bug and any development you may want to make.
 
