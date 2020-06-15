@@ -1,4 +1,4 @@
-## QUOTESS APP
+## QUOTES APP
 
 
 ### Description of the application
