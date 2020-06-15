@@ -1,3 +1,4 @@
+ 
 import { Component, OnInit } from '@angular/core';
 import { Quote } from '../quote';
 
@@ -8,16 +9,15 @@ import { Quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
 
-  ...
- 
+  
 
   quotes:Quote[] = [
-    new Quote(1, 'sharain', 'The way to get started is to quit talking and begindoing.',new Date(2020,05,14),
-    new Quote(2, 'Vallary', 'Dont let yesterday take up too much of today.',new Date(2020,07,23),
-    new Quote(3, 'Rizzanael', 'We may encounter many defeats but we must not be defeated.',new Date(2020,09,23),
-    new Quote(4, 'Boaz', 'Telling an introvert to go party is like telling a saint to go to Hell.',new Date(2020,04,12),
-    new Quote(5, 'Herbert', 'The best way to behave is not too.',new Date(2020,09,10),
-    new Quote(6, 'Ethan', 'Never miss a party....good for the nerves like celery.',new Date(2020,03,24),
+    new Quote(1, 'sharain', 'The way to get started is to quit talking and begindoing.',new Date(2020,5,14)),
+    new Quote(2, 'Vallary', 'Dont let yesterday take up too much of today.',new Date(2020,7,23)),
+    new Quote(3, 'Rizzanael', 'We may encounter many defeats but we must not be defeated.',new Date(2020,9,23)),
+    new Quote(4, 'Boaz', 'Telling an introvert to go party is like telling a saint to go to Hell.',new Date(2020,4,12)),
+    new Quote(5, 'Herbert', 'The best way to behave is not too.',new Date(2020,9,10)),
+    new Quote(6, 'Ethan', 'Never miss a party....good for the nerves like celery.',new Date(2020,3,24)),
   ];
 
   toggleDetails(index){
